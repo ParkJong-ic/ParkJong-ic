@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ParkJongic&theme=dracula&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
-![아이디's github stats](https://github-readme-stats.vercel.app/api?username=ParkJongic&show_icons=true&theme=radical)
+![ParkJongic's github stats](https://github-readme-stats.vercel.app/api?username=ParkJongic&show_icons=true&theme=radical)
 
-[![아이디's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkJongic
+[![ParkJongic's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkJongic
   &show_icons=true&hide_border=true&title_color=004386&icon_color=004386&theme=radical)](https://github.com/ParkJongic)
