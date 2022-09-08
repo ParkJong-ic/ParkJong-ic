@@ -4,7 +4,7 @@
 ### Watch my contribution graph get eaten by the snake🐍
 ![snake svg](https://github.com/sigridjineth/sigridjineth/blob/output/github-contribution-grid-snake.svg)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sigridjineth)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkJong-ic)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
