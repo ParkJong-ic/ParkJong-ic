@@ -1,7 +1,3 @@
-### See how extent Sigrid Jin loves algorithm❤️
-
-
-### Watch my contribution graph get eaten by the snake🐍
 ![snake svg](https://github.com/sigridjineth/sigridjineth/blob/output/github-contribution-grid-snake.svg)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkJong-ic)
