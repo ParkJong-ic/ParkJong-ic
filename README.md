@@ -11,9 +11,8 @@ You can click the Preview link to take a look at your changes.
 
 [![ParkJong-ic's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkJong-ic&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&theme=radical)](https://github.com/ParkJong-ic)
     <div class="media">
-		    <a href="https://velog.io/@whddlrs"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white" height="25px;"/></a>
-		    <a href="https://level-silene-6a6.notion.site/73614cbab7654a45b0fa6ca19f673713"><img src="https://img.shields.io/badge/Portfolio-444444?style=flat&logo=Notion&logoColor=white" height="25px;"/></a>
-	  </div>
+	<a href="https://velog.io/@whddlrs"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white" height="25px;"/></a>
+    </div>
 <div>
   
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
