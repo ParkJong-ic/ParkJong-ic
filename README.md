@@ -7,13 +7,13 @@ You can click the Preview link to take a look at your changes.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ParkJong-ic&theme=dracula&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
-![ParkJong-ic's github stats](https://github-readme-stats.vercel.app/api?username=ParkJong-ic&show_icons=true&theme=radical)
+<!-- ![ParkJong-ic's github stats](https://github-readme-stats.vercel.app/api?username=ParkJong-ic&show_icons=true&theme=radical) -->
 
-[![ParkJong-ic's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkJong-ic&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&theme=radical)](https://github.com/ParkJong-ic)
-    <div class="media">
-	<a href="https://velog.io/@whddlrs"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white" height="25px;"/></a>
-    </div>
-<div>
+<!-- [![ParkJong-ic's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkJong-ic&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&theme=radical)](https://github.com/ParkJong-ic) -->
   
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+	
+<div>
+	<a href="https://velog.io/@whddlrs"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white" height="25px;"/></a>
+</div>
